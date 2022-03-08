@@ -6,6 +6,7 @@ The events are then displayed onto a dashboard, BMC incident tickets are
 generated for events of a specified severity, and Teams messages about the 
 events are sent to a specified channel.
 
+# Please refer to https://github.com/ciscops/Project_Federate for most recent changes to the project.
 
 
 ## Contacts
